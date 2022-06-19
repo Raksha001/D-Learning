@@ -1,0 +1,96 @@
+[
+  {
+    "courseId": 1,
+    "courseName": "JavaScript",
+    "duration": "3 weeks",
+    "description": "Wanna start with JavaScript? This ids for you. You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation.",
+    "dataUrl": "js2.mp4",
+    "imageUrl": "js.png",
+    "lessons": [
+      {
+        "lessonId": 1,
+        "courseName": "JavaScript - Flow Control",
+        "duration": "1 weeks",
+        "description": "Wanna start with JavaScript? This ids for you. You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation.",
+        "dataUrl": "js1.mp4",
+        "imageUrl": "js.png"
+      },
+      {
+        "lessonId": 2,
+        "courseName": "JavaScript - Functions",
+        "duration": "2 weeks",
+        "description": "Wanna start with JavaScript? This ids for you. You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation.",
+        "dataUrl": "js2.mp4",
+        "imageUrl": "js.png"
+      },
+      {
+        "lessonId": 3,
+        "courseName": "JavaScript - ES6",
+        "duration": "3 weeks",
+        "description": "Wanna start with JavaScript? This ids for you. You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation.",
+        "dataUrl": "js1.mp4",
+        "imageUrl": "js.png"
+      }
+    ]
+  },
+  {
+    "courseId": 2,
+    "courseName": "Python",
+    "duration": "2 weeks",
+    "description": "Python is a programming language that is used to create programs that can be run on a computer. It is a high-level language that is easy to learn and use. Python is a great choice for beginners who want to learn programming.",
+    "dataUrl": "Python1.mp4",
+    "imageUrl": "python.png",
+    "lessons": [
+      {
+        "lessonId": 1,
+        "courseName": "Python - Flow Control",
+        "duration": "1 weeks",
+        "description": "Python is a programming language that is used to create programs that can be run on a computer. It is a high-level language that is easy to learn and use. Python is a great choice for beginners who want to learn programming.",
+        "dataUrl": "Python1.mp4",
+        "imageUrl": "python.png"
+      },
+      {
+        "lessonId": 2,
+        "courseName": "Python - Functions",
+        "duration": "1 weeks",
+        "description": "Python is a programming language that is used to create programs that can be run on a computer. It is a high-level language that is easy to learn and use. Python is a great choice for beginners who want to learn programming.",
+        "dataUrl": "Python2.mp4",
+        "imageUrl": "python.png"
+      },
+      {
+        "lessonId": 3,
+        "courseName": "Python - File Handling",
+        "duration": "1 weeks",
+        "description": "Python is a programming language that is used to create programs that can be run on a computer. It is a high-level language that is easy to learn and use. Python is a great choice for beginners who want to learn programming.",
+        "dataUrl": "Python2.mp4",
+        "imageUrl": "python.png"
+      }
+    ]
+  },
+  {
+    "courseId": 3,
+    "courseName": "Agile Methodology",
+    "duration": "4 weeks",
+    "description": "Welcome To Agile",
+    "dataUrl": "Agile1.mp4",
+    "imageUrl": "agile.png",
+    "lessons": [
+      {
+        "lessonId": 1,
+        "courseName": "Agile Methodology",
+        "duration": "4 weeks",
+        "description": "Welcome To Agile",
+        "dataUrl": "Agile1.mp4",
+        "imageUrl": "agile.png"
+      },
+      {
+        "lessonId": 2,
+        "courseName": "AM - Scrum",
+        "duration": "1 week",
+        "description": "Scrum",
+        "dataUrl": "Agile2.mp4",
+        "imageUrl": "agile.png"
+      }
+    ]
+  }
+]
